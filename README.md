@@ -2,20 +2,7 @@
 
 step1: I created ec2 instance 
 step2: SSH into your EC2 instance
-This key is not known by any other names
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added '3.111.198.64' (ED25519) to the list of known hosts.
-   ,     #_
-   ~\_  ####_        Amazon Linux 2023
-  ~~  \_#####\
-  ~~     \###|
-  ~~       \#/ ___   https://aws.amazon.com/linux/amazon-linux-2023
-   ~~       V~' '->
-    ~~~         /
-      ~~._.   _/
-         _/ _/
-       _/m/'
-Last login: Sun Aug 10 09:49:20 2025 from 13.233.177.5
+
 [ec2-user@ip-172-31-41-191 ~]$ 
 step3:Installed Node.js,npm,git
 sudo yum update -y
